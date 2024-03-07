@@ -17,6 +17,7 @@ public class SimpleApp {
     
     public static void main(String[] args) {
         System.out.println("Happy Holiday");
+        System.out.println("Blal+=blablabla");
     }
     
 }
